@@ -1,0 +1,234 @@
+    div#container {
+        height: 100%;
+        margin: 0%;
+        padding: 0%;
+    }
+    div#homepage {
+        background-color: #3A3033;
+        height: 100%;
+    }
+    img#logo {
+        width: 30%;
+        height: 8em;
+    }
+    div#title {
+        height: 25
+    }
+    i.fa.fa-facebook {
+        margin-left: 77%;
+    }
+    div#nav {
+        font-size: 10px;
+        padding: 0%;
+        margin: 0%;
+        margin-top: 1%;
+    }
+    div#social {
+        margin-top: 1%;
+    }
+    p#hm1 {
+        color: white;
+        font-size: 3em;
+    }
+    p#hm2 {
+        color: wheat;
+    }
+    i.fa.fa-minus.fa-3x {
+        margin-top: 7%;
+        margin-left: 5%;
+        font-size: 3em;
+    }
+    div#hometext {
+        text-align: center;
+        margin-top: 80px;
+    }
+    div#leftproject {
+        height: 29em;
+    }
+    div#nestedprojects {
+        height: 100%;
+    }
+    div#highlighted {
+        background-color: #FAFAFA;
+        margin: 0%;
+        padding-bottom: 0%;
+        height: 56%;
+    }
+    p#lftp1 {
+        margin-top: 10%;
+        margin-left: 20%;
+        font-size: 12px;
+        margin-right: 11%;
+    }
+    h1 {
+        margin-top: 0%;
+        margin-left: 20%;
+        font-size: 30px;
+        margin-right: 11%;
+        font-weight: 900;
+    }
+    div#blank {
+        height: 30%;
+        padding-left: 0%;
+        padding-right: 0%;
+        margin-top: -3%;
+    }
+    div#colors {
+        height: 100%;
+    }
+    div#black {
+        height: 100%;
+        background-color: #3A3033;
+    }
+    div#grey {
+        height: 100%;
+        background-color: #362B2F;
+    }
+    a.button {
+        background-color: red;
+        margin-top: 2%;
+    }
+    div#discover {
+        text-align: center;
+        background-color: #FAFAFA;
+        font-size: 11px;
+    }
+    div#rightproject {
+        background-color: #FF0017;
+        height: 30em;
+    }
+    p#rghtp1 {
+        margin-top: 36%;
+        font-size: 12px;
+        margin-left: 15%;
+        color: gray;
+    }
+    b#b2 {
+        font-size: 28px;
+        color: #FFFFFF;
+    }
+    h1#history {
+        margin-top: 2%;
+    }
+    p#hip1 {
+        margin-top: 4%;
+        margin-left: 21%;
+        margin-right: 24%;
+        font-size: 12px;
+    }
+    a#hisbutton {
+        margin-left: 20%;
+    }
+    img {
+        width: 50%;
+        height: 29em;
+        margin-left: 18%;
+    }
+    div#hiimage {
+        height: 29em;
+    }
+    div#hitext1 {
+        height: 29em;
+    }
+    img#icon1 {
+        height: 3em;
+        width: 3em;
+        margin: 0em;
+    }
+    div#histicon {
+        height: 15em;
+    }
+    div#histicon {
+        margin-top: 4em;
+    }
+    div#histicon {
+        text-align: center;
+    }
+    b {
+        font-size: 11px;
+    }
+    p#picon {
+        color: red;
+        font-size: 53px;
+    }
+    h6 {
+        margin-top: -1em;
+        color: grey;
+        font-size: 12px;
+    }
+    div#serve1 {
+        height: 7em;
+    }
+    h1#sv {
+        font-size: 49px;
+    }
+    img#servimg {
+        height: 3em;
+        width: 3em;
+    }
+    .row.small-up-1.medium-up-2.large-up-3 {
+        margin-left: 13em;
+        margin-right: 4em;
+    }
+    b {
+        font-size: 17px;
+    }
+    div#services {
+        background-color: #F7F7F7;
+    }
+    div#area {
+        background-color: #362B2F;
+        height: 13em;
+        text-align: center;
+    }
+    p#c1 {
+        color: white;
+        margin: 2em;
+        font-size: 27px;
+    }
+    p#c2 {
+        margin-top: -3em;
+        color: grey;
+        font-size: 14px;
+    }
+    p#c3 {
+        color: white;
+        text-decoration: underline;
+    }
+    h1#jo {
+        font-size: 3em;
+        margin-top: 2%;
+        margin-left: 3em;
+    }
+    div#txtj {
+        height: 7em;
+    }
+    div#hldr1 {
+        margin-top: 3em;
+    }
+    div#clr {
+        background-color: #362B2F;
+        height: 9em;
+        margin: 0;
+        padding: 0;
+        margin-right: 23px;
+        width: 31%;
+    }
+    div#txtjo {
+        margin-top: 1em;
+    }
+    h4#shmre {
+        text-align: center;
+        margin-top: 3em;
+        text-decoration: underline;
+        font-size: 1em;
+        font-weight: 900;
+        color: #362B2F;
+    }
+    div#art {
+        height: 8em;
+    }
+    div#title {
+        width: 100%;
+        z-index: 9999;
+    }
